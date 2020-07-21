@@ -1,0 +1,7 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul02_Kontrollstrukturen\bin\Debug\Modul02_Kontrollstrukturen.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul02_Kontrollstrukturen\bin\Debug\Modul02_Kontrollstrukturen.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul02_Kontrollstrukturen\bin\Debug\Modul02_Kontrollstrukturen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul02_Kontrollstrukturen\obj\Debug\Modul02_Kontrollstrukturen.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul02_Kontrollstrukturen\obj\Debug\Modul02_Kontrollstrukturen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul02_Kontrollstrukturen\obj\Debug\Modul02_Kontrollstrukturen.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul02_Kontrollstrukturen\obj\Debug\Modul02_Kontrollstrukturen.pdb

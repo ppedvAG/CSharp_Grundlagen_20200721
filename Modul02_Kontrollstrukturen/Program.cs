@@ -70,7 +70,7 @@ namespace Modul02_Kontrollstrukturen
             }
             #endregion
 
-
+            #region Schleifen
             //a=25
             //b=30
 
@@ -136,10 +136,86 @@ namespace Modul02_Kontrollstrukturen
             {
                 Console.WriteLine($"Super Mario Leben > {cde}");
 
-                if (cde > 10000)
+                if (cde > 100)
                     break;
             }
 
+            #endregion
+
+            #region Arrays
+
+
+            int lottozahl1;
+            int lottozahl2;
+            int lottozahl3;
+
+            lottozahl1 = 17;
+            lottozahl2 = 18;
+            lottozahl3 = 29;
+
+
+            int[] lottozahlen = new int[3]; //Array muss bei der deklaration eine feste Größe mitgegeben werden
+
+            lottozahlen[0] = 13;
+            lottozahlen[1] = 17;
+            lottozahlen[2] = 33;
+
+            int[] zahlenArray = { 1, 3, 5, 7, 11, lottozahlen[0], 17, 19, 23, 29 }; //Größe wird anhand der Einträge ermittelt.
+
+
+
+            //Iteration über ein Array mittels For-Schleife
+            for (int i = 0; i < lottozahlen.Length; i++)
+            {
+                Console.WriteLine($"Aktueller Wert ist {lottozahlen[i]}");
+            }
+
+            //Iteration über ein Array mittels For-Schleife
+            Console.WriteLine("Weiteres Array");
+            for (int i = 0; i < zahlenArray.Length; i++)
+            {
+                Console.WriteLine($"Aktueller Wert ist {zahlenArray[i]}");
+            }
+
+
+            //FOREACH-Schleifen können über Collections laufen und sprechen dabei jedes Element genau einmal an
+            Console.WriteLine("foreach Beispiel!");
+            foreach (int currentNumber in zahlenArray)
+            {
+                Console.WriteLine($"Aktueller Wert ist {currentNumber}");
+            }
+
+            string[] woerterDesTages = { "Guten Morgen", "Guten Mittag", "Guten Abend" };
+            foreach (string aktuellesWort in woerterDesTages)
+            {
+                Console.WriteLine(aktuellesWort);
+            }
+
+            foreach(char letter in woerterDesTages[0])
+            {
+                Console.WriteLine(letter);
+            }
+
+            if (zahlenArray.Contains(19))
+            {
+                Console.WriteLine("Die Zahl 19 befindet sich im Array");
+            }
+
+            string myWord = "Berlin";
+
+            
+
+            if (myWord.Contains('l'))
+            {
+                Console.WriteLine($"Der Buchstabe lin befindet sich im Wort {myWord}");
+            }
+
+            
+
+
+
+
+            #endregion
 
 
             Console.ReadKey();

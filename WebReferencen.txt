@@ -1,0 +1,9 @@
+
+Variablen-Lehre: 
+https://docs.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/types-and-variables
+
+https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/language-specification/types#value-types
+
+
+
+

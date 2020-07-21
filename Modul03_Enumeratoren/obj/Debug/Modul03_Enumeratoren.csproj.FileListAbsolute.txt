@@ -1,0 +1,7 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03_Enumeratoren\bin\Debug\Modul03_Enumeratoren.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03_Enumeratoren\bin\Debug\Modul03_Enumeratoren.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03_Enumeratoren\bin\Debug\Modul03_Enumeratoren.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03_Enumeratoren\obj\Debug\Modul03_Enumeratoren.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03_Enumeratoren\obj\Debug\Modul03_Enumeratoren.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03_Enumeratoren\obj\Debug\Modul03_Enumeratoren.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03_Enumeratoren\obj\Debug\Modul03_Enumeratoren.pdb
