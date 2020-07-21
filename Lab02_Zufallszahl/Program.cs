@@ -18,17 +18,22 @@ namespace Lab02_Zufallszahl
 
             int tries = 0;
 
-            while (!istZahlRichtig)
+            int eingegebenZahl = 0;
+            do
             {
-                istZahlRichtig = false; ++;
-                // 1) Eingabe der geratenen Zahl
+                tries++;
+                Console.Write("Zahl bitte eingeben > ");
+                eingegebenZahl = int.Parse(Console.ReadLine());
 
-                // 2) Prüfung der eingegeben Zahl mit der zufallzahl
-                //+ Ausgabe: Zufallszahl ist größer oder kleiner
+                if (eingegebenZahl > zufallszahl)
+                    Console.WriteLine("Eingegebene Zahl ist größer als Zufallszahl");
+                else if (eingegebenZahl < zufallszahl)
+                    Console.WriteLine("Eingegebene Zahl ist kleiner als Zufallszahl");
 
-                // Oder richtig -> istZahlRichtig = true; -> Spiel ist beendet;
-            }
+            } while (eingegebenZahl != zufallszahl);
 
+            Console.WriteLine($"Sie haben die richtige Zahl erraten mit {tries} Versuchen");
+            Console.ReadKey();
             //Ausgabe der Versuche: Sie haben 5 Versuche gebraucht 
 
 

@@ -1,0 +1,7 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab02_Zufallszahl\bin\Debug\Lab02_Zufallszahl.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab02_Zufallszahl\bin\Debug\Lab02_Zufallszahl.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab02_Zufallszahl\bin\Debug\Lab02_Zufallszahl.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab02_Zufallszahl\obj\Debug\Lab02_Zufallszahl.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab02_Zufallszahl\obj\Debug\Lab02_Zufallszahl.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab02_Zufallszahl\obj\Debug\Lab02_Zufallszahl.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab02_Zufallszahl\obj\Debug\Lab02_Zufallszahl.pdb
