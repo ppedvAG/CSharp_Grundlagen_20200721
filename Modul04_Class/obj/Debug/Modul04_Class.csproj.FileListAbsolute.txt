@@ -1,0 +1,10 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\bin\Debug\Modul04_Class.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\bin\Debug\Modul04_Class.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\bin\Debug\Modul04_Class.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\bin\Debug\Modul04_Lib.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\bin\Debug\Modul04_Lib.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\obj\Debug\Modul04_Class.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\obj\Debug\Modul04_Class.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\obj\Debug\Modul04_Class.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\obj\Debug\Modul04_Class.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Class\obj\Debug\Modul04_Class.pdb

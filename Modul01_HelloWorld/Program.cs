@@ -90,6 +90,28 @@ namespace Modul01_HelloWorld
             //int ergebnis3 = int.Parse(kommaZahl.ToString());
             //Console.WriteLine($"int ergebnis3 = int.Parse(kommaZahl.ToString()); -> {ergebnis3}");
 
+            Console.Write("Gebe eine Zahl ein:");
+            string eingabe = Console.ReadLine();
+
+            int konventierteZahl; 
+
+            //Wenn Variable eingabe eine zahl ist, dann gibt TryParse den Wert true zurück. 
+            //Wenn TryParse = true ist, dann kann man die konventierteZahl zurück
+            if (int.TryParse(eingabe, out konventierteZahl ))
+            {
+                //Hier ist die Benutzung von konventierteZahl bedenkungslos 
+                Console.WriteLine($"{konventierteZahl}");
+            }
+
+
+            //Gegenbeispiel
+
+            //Gegenbeispiel: Parse mit Prüfung (ohne TryParse)
+            if (eingabe.All(x => char.IsDigit(x)))
+            {
+                Console.WriteLine(int.Parse(eingabe) * 2);
+            }
+
 
             #endregion
 
@@ -108,11 +130,6 @@ namespace Modul01_HelloWorld
 
             #endregion
 
-
-            Console.ReadKey();
-
-
-            
         }
 
         

@@ -16,7 +16,10 @@ namespace Modul03_Enumeratoren
             anrede[1] = "Herr";
             anrede[2] = "Dr.";
             anrede[3] = "Dipl.";
-            anrede[4] = "Magister";
+            anrede[4] = "Diplom Doctor";
+            anrede[5] = "Magister";
+
+            //TextBox1.Text = anrede[1]
 
 
             //..... mal angenommen du siehst diese defnition nicht mehr 13->18 
@@ -120,6 +123,8 @@ namespace Modul03_Enumeratoren
 
         }
     }
-    enum Wochentag { Montag=1, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag }
+    enum Wochentag { Montag=5, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag }
     public enum AnredeFormen { Frau, Herr, Dr, DrDr, Diplom, Magister}
+
+
 }

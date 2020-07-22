@@ -1,0 +1,6 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Lib\bin\Debug\Modul04_Lib.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Lib\bin\Debug\Modul04_Lib.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Lib\obj\Debug\Modul04_Lib.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Lib\obj\Debug\Modul04_Lib.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Lib\obj\Debug\Modul04_Lib.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_Lib\obj\Debug\Modul04_Lib.pdb

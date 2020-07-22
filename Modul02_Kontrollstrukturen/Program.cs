@@ -156,6 +156,7 @@ namespace Modul02_Kontrollstrukturen
 
             int[] lottozahlen = new int[3]; //Array muss bei der deklaration eine feste Größe mitgegeben werden
 
+
             lottozahlen[0] = 13;
             lottozahlen[1] = 17;
             lottozahlen[2] = 33;

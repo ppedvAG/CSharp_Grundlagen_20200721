@@ -6,4 +6,9 @@ https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/language-speci
 
 
 
+Enums-Bitmask:
+https://docs.microsoft.com/de-de/dotnet/api/system.enum.hasflag?view=netcore-3.1
 
+
+Out-Parameter:
+https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/keywords/out-parameter-modifier
