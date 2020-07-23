@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul04_Lib", "Modul04_Lib\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul04_Class", "Modul04_Class\Modul04_Class.csproj", "{0220B71C-88FB-44EC-ACC4-42C3C87750EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul04_Abstract", "Modul04_Abstract\Modul04_Abstract.csproj", "{EFED8D8B-99A0-4023-AF83-3B20464F0ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul04_VirtualProperty", "Modul04_VirtualProperty\Modul04_VirtualProperty.csproj", "{0FC8B809-380D-49CB-B1D8-ED1D1B66C81E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,14 @@ Global
 		{0220B71C-88FB-44EC-ACC4-42C3C87750EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0220B71C-88FB-44EC-ACC4-42C3C87750EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0220B71C-88FB-44EC-ACC4-42C3C87750EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFED8D8B-99A0-4023-AF83-3B20464F0ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFED8D8B-99A0-4023-AF83-3B20464F0ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFED8D8B-99A0-4023-AF83-3B20464F0ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFED8D8B-99A0-4023-AF83-3B20464F0ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC8B809-380D-49CB-B1D8-ED1D1B66C81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC8B809-380D-49CB-B1D8-ED1D1B66C81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC8B809-380D-49CB-B1D8-ED1D1B66C81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC8B809-380D-49CB-B1D8-ED1D1B66C81E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
