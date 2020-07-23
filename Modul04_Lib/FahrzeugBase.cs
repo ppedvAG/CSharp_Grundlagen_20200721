@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Modul04_Lib
 {
-    public class Fahrzeug
+    public class FahrzeugBase
     {
 
         //in C++ ist der Stil so -> private int m_baujahr; 
@@ -18,12 +17,18 @@ namespace Modul04_Lib
         private string marke;
         private string modell;
 
+        //private int m_variable1;
+        //private int _variable2;
+
+        //private int variable3;
+
+
         private double aktGeschwindigkeit;
         private double maxGeschwindigkeit;
 
 
         // AutoProperty -> Member-Variable wird zur Laufzeit angelegt und von der AutoProperty verwendet.
-        public bool MotorLäuft { get; set; }
+        public bool MotorLaeuft { get; set; }
 
         public string Farbe { get; set; }
 
@@ -31,13 +36,13 @@ namespace Modul04_Lib
 
 
         //DEfault Konstruktor mit Standard-Werte
-        public Fahrzeug()
+        public FahrzeugBase()
         {
 
             if (AnzahlErstellterFahrzeuge <= MaxAnzahlErstellterFahrzeuge)
             {
                 AktGeschwindigkeit = 0;
-                MotorLäuft = false;
+                MotorLaeuft = false;
 
                 AnzahlErstellterFahrzeuge++;
             }
@@ -48,7 +53,7 @@ namespace Modul04_Lib
         }
 
         //Konstruktor für benutzerdefinierte Angaben -> BMW, Audi...etc
-        public Fahrzeug(int baujahr, string marke, string modell, double maxGeschwindigkeit)
+        public FahrzeugBase(int baujahr, string marke, string modell, double maxGeschwindigkeit)
             :this()
         {
             Baujahr = baujahr;
@@ -58,12 +63,21 @@ namespace Modul04_Lib
         }
 
         //Konstruktor für Version 2.0 unseres Fahrzeuges
-        public Fahrzeug(int baujahr, string marke, string modell, double maxGeschwindigkeit, string farbe)
+        public FahrzeugBase(int baujahr, string marke, string modell, double maxGeschwindigkeit, string farbe)
             : this(baujahr, marke, modell, maxGeschwindigkeit)
         {
             this.Farbe = farbe;
         }
 
+        public virtual int WartungsArbeitenInTage ()
+        {
+            return 10;
+        }
+
+        
+
+
+        
 
 
 
@@ -149,17 +163,17 @@ namespace Modul04_Lib
 
         public void StarteMotor()
         {
-            MotorLäuft = true;
+            MotorLaeuft = true;
         }
 
         public void StoppeMotor()
         {
-            MotorLäuft = false;
+            MotorLaeuft = false;
         }
 
         public void Beschleunigung(int a)
         {
-            if(MotorLäuft == true)
+            if(MotorLaeuft == true)
             {
 
                 if (AktGeschwindigkeit + a > MaxGeschwindigkeit)
@@ -188,7 +202,18 @@ namespace Modul04_Lib
             return $"Marke: {Marke} - Modell: {Modell} - Baujahr: {Baujahr} - Höchsgeschwindigkeit: {MaxGeschwindigkeit} - Aktuelle Geschwindigkeit: {AktGeschwindigkeit}";
         }
 
+
+        private void WerdeIchInAbgeleitetenKlassenGesehen()
+        {
+
+        }
+
         #endregion
+
+        public override string ToString()
+        {
+            return base.ToString() + " - Ich bin ein Fahrzeug";
+        }
 
 
 

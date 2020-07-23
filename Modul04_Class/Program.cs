@@ -13,16 +13,16 @@ namespace Modul04_Class
         {
 
             //unschönes Beispiel
-            Fahrzeug fahrzeug = new Fahrzeug();
+            FahrzeugBase fahrzeug = new FahrzeugBase();
             fahrzeug.Baujahr = 1999;
             fahrzeug.Marke = "BMW";
             fahrzeug.Modell = "Z8";
             fahrzeug.MaxGeschwindigkeit = 250;
 
 
-            Fahrzeug auto = new Fahrzeug(1999, "BMW", "Z8", 250);
+            FahrzeugBase auto = new FahrzeugBase(1999, "BMW", "Z8", 250);
 
-            Fahrzeug autoVersion2 = new Fahrzeug(2020, "Fiat", "Punto", 280, "Blau");
+            FahrzeugBase autoVersion2 = new FahrzeugBase(2020, "Fiat", "Punto", 280, "Blau");
 
             autoVersion2.StarteMotor();
             autoVersion2.Beschleunigung(150);
@@ -32,13 +32,31 @@ namespace Modul04_Class
 
 
            
-            Fahrzeug autoVersion3 = new Fahrzeug(2019, "Fiat", "Punto", 130, "Blau");
-            Fahrzeug autoVersion4 = new Fahrzeug(2018, "BMW", "Z8", 220, "Rot");
-            Fahrzeug autoVersion5 = new Fahrzeug(2017, "Porsche", "xyz", 280, "Schwarz");
-            Fahrzeug autoVersion6 = new Fahrzeug(2016, "Audi", "Quatro", 240, "Sibler");
+            //FahrzeugBase autoVersion3 = new FahrzeugBase(2019, "Fiat", "Punto", 130, "Blau");
+            //FahrzeugBase autoVersion4 = new FahrzeugBase(2018, "BMW", "Z8", 220, "Rot");
+            //FahrzeugBase autoVersion5 = new FahrzeugBase(2017, "Porsche", "xyz", 280, "Schwarz");
+            //FahrzeugBase autoVersion6 = new FahrzeugBase(2016, "Audi", "Quatro", 240, "Sibler");
 
 
-            Fahrzeug.KmhToMph(123);
+            FahrzeugBase.KmhToMph(123);
+
+
+            Yacht yacht = new Yacht(2010, "DagobertDuckWerft", "Yacht 1.0", 20, "Blau", 1.2, true);
+
+            yacht.AnkerAuswerfen();
+            yacht.MakeParty();
+
+
+            yacht.WartungsArbeitenInTage(); // bekomme 10 
+
+            Console.WriteLine(yacht.ToString());
+
+            ContainerSchiff containerSchiff = new ContainerSchiff(1990, "Kühne Werft", "Blub Blub 1.0", 5, "grau", 2, 100,20);
+            containerSchiff.AnkerAuswerfen();
+            containerSchiff.BeladeSchiff(50);
+
+
+
 
         }
     }

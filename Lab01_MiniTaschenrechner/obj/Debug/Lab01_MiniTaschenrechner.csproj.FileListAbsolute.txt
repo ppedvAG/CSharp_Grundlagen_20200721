@@ -1,0 +1,7 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab01_MiniTaschenrechner\bin\Debug\Lab01_MiniTaschenrechner.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab01_MiniTaschenrechner\bin\Debug\Lab01_MiniTaschenrechner.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab01_MiniTaschenrechner\bin\Debug\Lab01_MiniTaschenrechner.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab01_MiniTaschenrechner\obj\Debug\Lab01_MiniTaschenrechner.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab01_MiniTaschenrechner\obj\Debug\Lab01_MiniTaschenrechner.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab01_MiniTaschenrechner\obj\Debug\Lab01_MiniTaschenrechner.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Lab01_MiniTaschenrechner\obj\Debug\Lab01_MiniTaschenrechner.pdb
