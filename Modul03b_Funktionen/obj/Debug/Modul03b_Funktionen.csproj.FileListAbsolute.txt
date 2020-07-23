@@ -5,4 +5,3 @@ C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03b_Funktionen\obj\Debug\Modul
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03b_Funktionen\obj\Debug\Modul03b_Funktionen.exe
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03b_Funktionen\obj\Debug\Modul03b_Funktionen.pdb
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03b_Funktionen\bin\Debug\Modul03b_Funktionen.xml
-C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul03b_Funktionen\obj\Debug\Modul03b_Funktionen.csprojAssemblyReference.cache
