@@ -1,0 +1,10 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\bin\Debug\DVDScreensaver.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\bin\Debug\DVDScreensaver.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\bin\Debug\DVDScreensaver.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\obj\Debug\DVDScreensaver.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\obj\Debug\DVDScreensaver.Form1.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\obj\Debug\DVDScreensaver.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\obj\Debug\DVDScreensaver.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\obj\Debug\DVDScreensaver.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\obj\Debug\DVDScreensaver.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DVDScreensaver\obj\Debug\DVDScreensaver.pdb

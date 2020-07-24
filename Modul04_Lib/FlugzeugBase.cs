@@ -43,7 +43,7 @@ namespace Modul04_Lib
         }
     }
 
-    public class Jet : FlugzeugBase
+    public class Jet : FlugzeugBase, IFahrlizenz
     {
         public Jet(string marke, string modell, int baujahr, double maxGeschw, string farbe, double spannweite, int maxFlughoehe, int aktFlughoehe, int düsenanzahl, double schubkraft)
             : base(marke, modell, baujahr, maxGeschw, farbe, spannweite, maxFlughoehe, aktFlughoehe)
@@ -64,9 +64,14 @@ namespace Modul04_Lib
         {
             return alter >= 21 ? true : false;
         }
+
+        public int FahrlizenzAbWievielenJahren()
+        {
+            return 21;
+        }
     }
 
-    public class Propeller : FlugzeugBase
+    public class Propeller : FlugzeugBase, IFahrlizenz
     {
         public Propeller(string marke, string modell, int baujahr, double maxGeschw, string farbe, double spannweite, int maxFlughoehe, int aktFlughoehe, int anzhalPropeller, int propellerUmdrehungenMin)
             : base(marke, modell, baujahr, maxGeschw, farbe, spannweite, maxFlughoehe, aktFlughoehe)
@@ -78,6 +83,10 @@ namespace Modul04_Lib
         int AnzahlPropeller { get; set; }
         int PropellerUmdrehungenMin { get; set; }
 
+        public int FahrlizenzAbWievielenJahren()
+        {
+            return 18;
+        }
     }
 
 }

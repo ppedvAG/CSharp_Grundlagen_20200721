@@ -1,0 +1,6 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericListWithLambda\bin\Debug\Modul05_UseGenericListWithLambda.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericListWithLambda\bin\Debug\Modul05_UseGenericListWithLambda.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericListWithLambda\bin\Debug\Modul05_UseGenericListWithLambda.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericListWithLambda\obj\Debug\Modul05_UseGenericListWithLambda.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericListWithLambda\obj\Debug\Modul05_UseGenericListWithLambda.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericListWithLambda\obj\Debug\Modul05_UseGenericListWithLambda.pdb

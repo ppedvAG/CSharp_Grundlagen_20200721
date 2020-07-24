@@ -35,7 +35,7 @@ namespace Modul04_Lib
     }
 
 
-    public class Yacht : SchiffBase
+    public class Yacht : SchiffBase, IFahrlizenz
     {
         public Yacht (int baujahr, string marke, string modell, double maxGeschwindigkeit, string farbe, double tiefgang, bool pool)
             :base(baujahr, marke, modell, maxGeschwindigkeit, farbe, tiefgang)
@@ -57,6 +57,11 @@ namespace Modul04_Lib
         public override string ToString()
         {
             return base.ToString() + " - Ich bin allerdings eine Yacht!";
+        }
+
+        public int FahrlizenzAbWievielenJahren()
+        {
+            return 16;
         }
     }
 
@@ -92,7 +97,7 @@ namespace Modul04_Lib
 
     }
 
-    public class ContainerSchiff : SchiffBase
+    public class ContainerSchiff : SchiffBase, IFahrlizenz
     {
         public ContainerSchiff(int baujahr, string marke, string modell, double maxGeschwindigkeit, string farbe, double tiefgang, int maxLadeMenge, int aktuelleLadeMenge) 
             : base(baujahr, marke, modell, maxGeschwindigkeit, farbe, tiefgang)
@@ -114,6 +119,10 @@ namespace Modul04_Lib
                 AktuelleLademengeInTonnen += Lademenge;
         }
 
+        public int FahrlizenzAbWievielenJahren()
+        {
+            return 18;
+        }
 
         public override int WartungsArbeitenInTage()
         {

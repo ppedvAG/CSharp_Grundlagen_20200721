@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modul04_Lib
 {
-    public class PKW : FahrzeugBase
+    public class PKW : FahrzeugBase, IFahrlizenz
     {
         public PKW(string marke, string modell, int baujahr, double maxGeschw, string farbe, int anzahlTueren, int anzahlRaeder)
             : base(baujahr, marke, modell, maxGeschw,farbe)
@@ -18,9 +18,13 @@ namespace Modul04_Lib
         public int AnzahlRader { get; set; }
         public int AnzahlTueren { get; set; }
 
+        public int FahrlizenzAbWievielenJahren()
+        {
+            return 17;
+        }
     }
 
-    public class BobbyCar : FahrzeugBase
+    public class BobbyCar : FahrzeugBase, ICloneable
     {
         public BobbyCar()
         {
@@ -30,25 +34,27 @@ namespace Modul04_Lib
         public BobbyCar(string marke, string modell, int baujahr, double maxGeschw, string farbe, int maxGewicht)
             : base(baujahr, marke, modell, maxGeschw, farbe)
         {
-            this.MaxGeschwicht = maxGewicht;
+            
         }
 
 
-        public int MaxGeschwicht { get; set; }
-
-        //public object Clone()
-        //{
-        //    BobbyCar bobbyCar = new BobbyCar();
-        //    bobbyCar.Modell = this.Modell;
-        //    bobbyCar.Marke = this.Marke;
-        //    bobbyCar.MaxGeschwicht = this.MaxGeschwicht;
-        //    bobbyCar.AktGeschwindigkeit = this.AktGeschwindigkeit;
-        //    bobbyCar.Farbe = this.Farbe;
-        //    bobbyCar.MotorLaeuft = this.MotorLaeuft;
-        //    bobbyCar.Baujahr = this.Baujahr;
 
 
-        //    return bobbyCar;
-        //}
+
+
+        public object Clone()
+        {
+            BobbyCar bobbyCar = new BobbyCar();
+            bobbyCar.Modell = this.Modell;
+            bobbyCar.Marke = this.Marke;
+            bobbyCar.MaxGeschwindigkeit = this.MaxGeschwindigkeit;
+            bobbyCar.AktGeschwindigkeit = this.AktGeschwindigkeit;
+            bobbyCar.Farbe = this.Farbe;
+            bobbyCar.MotorLaeuft = this.MotorLaeuft;
+            bobbyCar.Baujahr = this.Baujahr;
+
+
+            return bobbyCar;
+        }
     }
 }

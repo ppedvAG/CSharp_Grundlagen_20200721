@@ -56,8 +56,32 @@ namespace Modul04_Class
             containerSchiff.BeladeSchiff(50);
 
 
+            BobbyCar orginalBobbyCar = new BobbyCar("Toy1.0", "Model123", 2019, 1, "rot", 50);
 
 
+            //Eine neue Kopie wird übergeben. Neuer Speicherbereich
+            BobbyCar kopiertesBobbyCar = (BobbyCar)orginalBobbyCar.Clone();
+
+            //Speicheradresse wird hier übergeben 
+            BobbyCar weitereKopieBobbyCar = orginalBobbyCar;
+
+
+            ChangeBobyCar(kopiertesBobbyCar);
+            ChangeBobyCar(weitereKopieBobbyCar);
+
+            Console.WriteLine(orginalBobbyCar.Farbe);
+            Console.ReadKey();
+
+
+
+
+        }
+
+
+
+        static void ChangeBobyCar(BobbyCar car)
+        {
+            car.Farbe = "Blau";
         }
     }
 }

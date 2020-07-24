@@ -231,6 +231,6 @@ namespace Modul04_Lib
 
         public static int AnzahlErstellterFahrzeuge { get; private set; } = 0;
 
-        public static int MaxAnzahlErstellterFahrzeuge { get; private set; } = 5;
+        public static int MaxAnzahlErstellterFahrzeuge { get; private set; } = 50;
     }
 }
