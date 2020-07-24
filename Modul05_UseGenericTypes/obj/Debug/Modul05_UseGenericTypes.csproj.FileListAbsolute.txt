@@ -1,7 +1,6 @@
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericTypes\bin\Debug\Modul05_UseGenericTypes.exe.config
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericTypes\bin\Debug\Modul05_UseGenericTypes.exe
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericTypes\bin\Debug\Modul05_UseGenericTypes.pdb
-C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericTypes\obj\Debug\Modul05_UseGenericTypes.csprojAssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericTypes\obj\Debug\Modul05_UseGenericTypes.csproj.CoreCompileInputs.cache
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericTypes\obj\Debug\Modul05_UseGenericTypes.exe
 C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul05_UseGenericTypes\obj\Debug\Modul05_UseGenericTypes.pdb

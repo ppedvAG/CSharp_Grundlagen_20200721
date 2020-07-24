@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="10763b1849d14f3c8fab116ba79e732f" Name="Diagram1" ZoomLevel="10">
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vEmployee" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vEmployeeDepartment" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vEmployeeDepartmentHistory" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vJobCandidate" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vJobCandidateEducation" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vJobCandidateEmployment" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vAdditionalContactInfo" Width="1.5" PointX="6.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vStateProvinceCountryRegion" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vProductAndDescription" Width="1.5" PointX="8.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vProductModelCatalogDescription" Width="1.5" PointX="8.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vProductModelInstructions" Width="1.5" PointX="0.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vVendorWithAddresses" Width="1.5" PointX="2.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vVendorWithContacts" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vIndividualCustomer" Width="1.5" PointX="4.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vPersonDemographics" Width="1.5" PointX="10.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vSalesPerson" Width="1.5" PointX="10.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vSalesPersonSalesByFiscalYears" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vStoreWithAddresses" Width="1.5" PointX="12.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vStoreWithContacts" Width="1.5" PointX="12.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.vStoreWithDemographics" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.AWBuildVersion" Width="1.5" PointX="13.375" PointY="13.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.DatabaseLog" Width="1.5" PointX="7.375" PointY="14.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ErrorLog" Width="1.5" PointX="15.375" PointY="0.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Department" Width="1.5" PointX="21.375" PointY="67.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Employee" Width="1.5" PointX="16.375" PointY="76.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.EmployeeDepartmentHistory" Width="1.5" PointX="23.625" PointY="77.875" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.EmployeePayHistory" Width="1.5" PointX="18.625" PointY="83" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.JobCandidate" Width="1.5" PointX="18.625" PointY="73.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Shift" Width="1.5" PointX="21.375" PointY="70.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Address" Width="1.5" PointX="18.625" PointY="100" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.AddressType" Width="1.5" PointX="18.625" PointY="110.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.BusinessEntity" Width="1.5" PointX="11.875" PointY="78" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.BusinessEntityAddress" Width="1.5" PointX="20.875" PointY="88.5" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.BusinessEntityContact" Width="1.5" PointX="21.375" PointY="78" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ContactType" Width="1.5" PointX="19.125" PointY="104.375" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.CountryRegion" Width="1.5" PointX="14.125" PointY="103.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.EmailAddress" Width="1.5" PointX="16.375" PointY="104.5" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Password" Width="1.5" PointX="16.375" PointY="90.875" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Person" Width="1.5" PointX="14.125" PointY="76.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.PersonPhone" Width="1.5" PointX="21.375" PointY="74.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.PhoneNumberType" Width="1.5" PointX="19.125" PointY="107.375" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.StateProvince" Width="1.5" PointX="16.375" PointY="100.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.BillOfMaterials" Width="1.5" PointX="17.875" PointY="37.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Culture" Width="1.5" PointX="19.375" PointY="52.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Illustration" Width="1.5" PointX="16.375" PointY="51.625" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Location" Width="1.5" PointX="23.875" PointY="29.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Product" Width="1.5" PointX="15.625" PointY="34.375" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductCategory" Width="1.5" PointX="11.125" PointY="34.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductCostHistory" Width="1.5" PointX="17.875" PointY="48.375" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductDescription" Width="1.5" PointX="19.375" PointY="54.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductInventory" Width="1.5" PointX="23.875" PointY="37.625" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductListPriceHistory" Width="1.5" PointX="17.875" PointY="59" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductModel" Width="1.5" PointX="13.375" PointY="41.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductModelIllustration" Width="1.5" PointX="18.625" PointY="45.5" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductModelProductDescriptionCulture" Width="1.5" PointX="21.625" PointY="47.375" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductPhoto" Width="1.5" PointX="18.625" PointY="29.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductProductPhoto" Width="1.5" PointX="20.875" PointY="33.875" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductReview" Width="1.5" PointX="17.875" PointY="33.375" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductSubcategory" Width="1.5" PointX="13.375" PointY="34" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ScrapReason" Width="1.5" PointX="21.625" PointY="31.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.TransactionHistory" Width="1.5" PointX="17.875" PointY="62" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.TransactionHistoryArchive" Width="1.5" PointX="15.375" PointY="4.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.UnitMeasure" Width="1.5" PointX="13.375" PointY="37.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.WorkOrder" Width="1.5" PointX="23.875" PointY="33.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.WorkOrderRouting" Width="1.5" PointX="26.125" PointY="33.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductVendor" Width="1.5" PointX="20.875" PointY="42.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.PurchaseOrderDetail" Width="1.5" PointX="20.875" PointY="37.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.PurchaseOrderHeader" Width="1.5" PointX="18.625" PointY="76.875" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ShipMethod" Width="1.5" PointX="16.375" PointY="82.5" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Vendor" Width="1.5" PointX="16.375" PointY="72.875" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.CountryRegionCurrency" Width="1.5" PointX="21.625" PointY="104.125" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.CreditCard" Width="1.5" PointX="18.625" PointY="91.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Currency" Width="1.5" PointX="16.375" PointY="95" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.CurrencyRate" Width="1.5" PointX="18.625" PointY="94.625" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Customer" Width="1.5" PointX="18.625" PointY="87" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.PersonCreditCard" Width="1.5" PointX="20.875" PointY="84.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesOrderDetail" Width="1.5" PointX="23.125" PointY="41.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesOrderHeader" Width="1.5" PointX="20.875" PointY="92" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesOrderHeaderSalesReason" Width="1.5" PointX="23.125" PointY="97" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesPerson" Width="1.5" PointX="14.125" PointY="86.625" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesPersonQuotaHistory" Width="1.5" PointX="16.375" PointY="107.5" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesReason" Width="1.5" PointX="20.875" PointY="101" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesTaxRate" Width="1.5" PointX="18.625" PointY="113.5" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesTerritory" Width="1.5" PointX="14.125" PointY="98.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SalesTerritoryHistory" Width="1.5" PointX="23.375" PointY="93.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ShoppingCartItem" Width="1.5" PointX="17.875" PointY="65.625" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SpecialOffer" Width="1.5" PointX="15.625" PointY="45.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.SpecialOfferProduct" Width="1.5" PointX="17.875" PointY="41.75" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.Store" Width="1.5" PointX="16.375" PointY="87.25" />
+        <EntityTypeShape EntityType="AdventureWorks2017Model.ProductDocument" Width="1.5" PointX="17.875" PointY="68.75" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_EmployeeDepartmentHistory_Department_DepartmentID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Employee_Person_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_EmployeeDepartmentHistory_Employee_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_EmployeePayHistory_Employee_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_JobCandidate_Employee_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PurchaseOrderHeader_Employee_EmployeeID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesPerson_Employee_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_EmployeeDepartmentHistory_Shift_ShiftID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Address_StateProvince_StateProvinceID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BusinessEntityAddress_Address_AddressID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_Address_BillToAddressID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_Address_ShipToAddressID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BusinessEntityAddress_AddressType_AddressTypeID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BusinessEntityAddress_BusinessEntity_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BusinessEntityContact_BusinessEntity_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Person_BusinessEntity_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Store_BusinessEntity_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Vendor_BusinessEntity_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BusinessEntityContact_ContactType_ContactTypeID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BusinessEntityContact_Person_PersonID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_CountryRegionCurrency_CountryRegion_CountryRegionCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesTerritory_CountryRegion_CountryRegionCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_StateProvince_CountryRegion_CountryRegionCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_EmailAddress_Person_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Password_Person_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Customer_Person_PersonID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PersonCreditCard_Person_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PersonPhone_Person_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PersonPhone_PhoneNumberType_PhoneNumberTypeID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesTaxRate_StateProvince_StateProvinceID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_StateProvince_SalesTerritory_TerritoryID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BillOfMaterials_Product_ComponentID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BillOfMaterials_Product_ProductAssemblyID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_BillOfMaterials_UnitMeasure_UnitMeasureCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductModelProductDescriptionCulture_Culture_CultureID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductModelIllustration_Illustration_IllustrationID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductInventory_Location_LocationID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_WorkOrderRouting_Location_LocationID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Product_ProductModel_ProductModelID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Product_ProductSubcategory_ProductSubcategoryID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Product_UnitMeasure_SizeUnitMeasureCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Product_UnitMeasure_WeightUnitMeasureCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductCostHistory_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductDocument_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductInventory_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductListPriceHistory_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductProductPhoto_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductReview_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductVendor_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PurchaseOrderDetail_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ShoppingCartItem_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SpecialOfferProduct_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_TransactionHistory_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_WorkOrder_Product_ProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductSubcategory_ProductCategory_ProductCategoryID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductModelProductDescriptionCulture_ProductDescription_ProductDescriptionID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductModelIllustration_ProductModel_ProductModelID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductModelProductDescriptionCulture_ProductModel_ProductModelID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductProductPhoto_ProductPhoto_ProductPhotoID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_WorkOrder_ScrapReason_ScrapReasonID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductVendor_UnitMeasure_UnitMeasureCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_WorkOrderRouting_WorkOrder_WorkOrderID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_ProductVendor_Vendor_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PurchaseOrderDetail_PurchaseOrderHeader_PurchaseOrderID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PurchaseOrderHeader_ShipMethod_ShipMethodID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PurchaseOrderHeader_Vendor_VendorID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_ShipMethod_ShipMethodID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_CountryRegionCurrency_Currency_CurrencyCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_PersonCreditCard_CreditCard_CreditCardID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_CreditCard_CreditCardID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_CurrencyRate_Currency_FromCurrencyCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_CurrencyRate_Currency_ToCurrencyCode" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_CurrencyRate_CurrencyRateID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Customer_SalesTerritory_TerritoryID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Customer_Store_StoreID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_Customer_CustomerID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderDetail_SpecialOfferProduct_SpecialOfferIDProductID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_SalesPerson_SalesPersonID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeader_SalesTerritory_TerritoryID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeaderSalesReason_SalesOrderHeader_SalesOrderID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesOrderHeaderSalesReason_SalesReason_SalesReasonID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesPerson_SalesTerritory_TerritoryID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesPersonQuotaHistory_SalesPerson_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesTerritoryHistory_SalesPerson_BusinessEntityID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_Store_SalesPerson_SalesPersonID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SalesTerritoryHistory_SalesTerritory_TerritoryID" />
+        <AssociationConnector Association="AdventureWorks2017Model.FK_SpecialOfferProduct_SpecialOffer_SpecialOfferID" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

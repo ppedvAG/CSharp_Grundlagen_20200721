@@ -1,0 +1,6 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ConsoleApp1\obj\Debug\StringBuilderSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

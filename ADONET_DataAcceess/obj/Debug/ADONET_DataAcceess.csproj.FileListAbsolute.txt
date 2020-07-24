@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\bin\Debug\ADONET_DataAcceess.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\bin\Debug\ADONET_DataAcceess.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\bin\Debug\ADONET_DataAcceess.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\obj\Debug\ADONET_DataAcceess.Form1.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\obj\Debug\ADONET_DataAcceess.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\obj\Debug\ADONET_DataAcceess.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\obj\Debug\ADONET_DataAcceess.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\obj\Debug\ADONET_DataAcceess.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\ADONET_DataAcceess\obj\Debug\ADONET_DataAcceess.pdb

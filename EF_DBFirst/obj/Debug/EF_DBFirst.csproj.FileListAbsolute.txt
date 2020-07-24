@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\bin\Debug\EF_DBFirst.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\bin\Debug\EF_DBFirst.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\bin\Debug\EF_DBFirst.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\bin\Debug\EntityFramework.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\bin\Debug\EntityFramework.xml
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.Form1.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\EF_DBFirst\obj\Debug\EF_DBFirst.pdb

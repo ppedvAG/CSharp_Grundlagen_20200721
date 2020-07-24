@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\bin\Debug\Konventierer.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\bin\Debug\Konventierer.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\bin\Debug\Konventierer.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\bin\Debug\Modul04_Lib.dll
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\bin\Debug\Modul04_Lib.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.Form1.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Konventierer\obj\Debug\Konventierer.pdb

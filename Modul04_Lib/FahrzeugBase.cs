@@ -6,6 +6,23 @@ using System.Threading.Tasks;
 
 namespace Modul04_Lib
 {
+
+    public class FahrzeugException : Exception
+    {
+        public FahrzeugException()
+            : base()
+        {
+
+        }
+
+        public FahrzeugException(string fehlermeldung)
+            :base(fehlermeldung)
+        {
+
+        }
+
+    }
+
     public class FahrzeugBase
     {
 
@@ -218,9 +235,31 @@ namespace Modul04_Lib
 
 
 
-        public static double KmhToMph(double kmh)
+        public static double KmhToMph(string  kmhAsString)
         {
-            return 0.6214 * kmh;
+            try
+            {
+                double kmh = Convert.ToDouble(kmhAsString);
+                if (kmh <= 0)
+                    throw new FahrzeugException("kmh Wert darf nicht null sein");
+
+                if (double.MaxValue < kmh)
+                    throw new OverflowException();
+
+                return 0.6214 * kmh;
+            }
+            catch (FormatException ex)
+            {
+                throw new FahrzeugException("Falsche Eingabe (FormatException)...nun ist das Programm für immer kaputt :-)"); //Diese Meldung bekommt mein Benutzer an der Oberfläche
+
+            }
+            catch (Exception ex)
+            {
+                // ex.ToString() -> detailierte Fehlermeldung wird in Logdatei geschrieben
+
+                throw new FahrzeugException("Sie User...nun ist das Programm für immer kaputt :-)"); //Diese Meldung bekommt mein Benutzer an der Oberfläche
+            }
+            
         }
 
         public static double MphToKmh(double mph)

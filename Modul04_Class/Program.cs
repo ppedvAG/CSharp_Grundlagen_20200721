@@ -38,7 +38,7 @@ namespace Modul04_Class
             //FahrzeugBase autoVersion6 = new FahrzeugBase(2016, "Audi", "Quatro", 240, "Sibler");
 
 
-            FahrzeugBase.KmhToMph(123);
+            FahrzeugBase.KmhToMph("123");
 
 
             Yacht yacht = new Yacht(2010, "DagobertDuckWerft", "Yacht 1.0", 20, "Blau", 1.2, true);

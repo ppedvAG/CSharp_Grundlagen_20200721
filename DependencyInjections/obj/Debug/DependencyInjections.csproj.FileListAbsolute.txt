@@ -1,0 +1,6 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DependencyInjections\obj\Debug\DependencyInjections.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DependencyInjections\bin\Debug\DependencyInjections.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DependencyInjections\bin\Debug\DependencyInjections.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DependencyInjections\bin\Debug\DependencyInjections.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DependencyInjections\obj\Debug\DependencyInjections.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\DependencyInjections\obj\Debug\DependencyInjections.pdb

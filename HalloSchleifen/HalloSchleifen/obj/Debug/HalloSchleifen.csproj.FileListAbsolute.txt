@@ -1,0 +1,13 @@
+C:\Andere Kurse\CSharp_MUC_10122019\HalloSchleifen\HalloSchleifen\bin\Debug\HalloSchleifen.exe.config
+C:\Andere Kurse\CSharp_MUC_10122019\HalloSchleifen\HalloSchleifen\bin\Debug\HalloSchleifen.exe
+C:\Andere Kurse\CSharp_MUC_10122019\HalloSchleifen\HalloSchleifen\bin\Debug\HalloSchleifen.pdb
+C:\Andere Kurse\CSharp_MUC_10122019\HalloSchleifen\HalloSchleifen\obj\Debug\HalloSchleifen.csprojAssemblyReference.cache
+C:\Andere Kurse\CSharp_MUC_10122019\HalloSchleifen\HalloSchleifen\obj\Debug\HalloSchleifen.exe
+C:\Andere Kurse\CSharp_MUC_10122019\HalloSchleifen\HalloSchleifen\obj\Debug\HalloSchleifen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\HalloSchleifen\HalloSchleifen\bin\Debug\HalloSchleifen.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\HalloSchleifen\HalloSchleifen\bin\Debug\HalloSchleifen.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\HalloSchleifen\HalloSchleifen\bin\Debug\HalloSchleifen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\HalloSchleifen\HalloSchleifen\obj\Debug\HalloSchleifen.csprojAssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\HalloSchleifen\HalloSchleifen\obj\Debug\HalloSchleifen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\HalloSchleifen\HalloSchleifen\obj\Debug\HalloSchleifen.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\HalloSchleifen\HalloSchleifen\obj\Debug\HalloSchleifen.pdb

@@ -1,0 +1,6 @@
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_VirtualProperty\bin\Debug\Modul04_VirtualProperty.exe.config
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_VirtualProperty\bin\Debug\Modul04_VirtualProperty.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_VirtualProperty\bin\Debug\Modul04_VirtualProperty.pdb
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_VirtualProperty\obj\Debug\Modul04_VirtualProperty.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_VirtualProperty\obj\Debug\Modul04_VirtualProperty.exe
+C:\Aktueller Kurs\CSharp_Grundlagen_20200721\Modul04_VirtualProperty\obj\Debug\Modul04_VirtualProperty.pdb
